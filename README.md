@@ -151,7 +151,7 @@ The application will open in your browser.
 
 ## Web Interface
 
-![Fake News Detector Streamlit Interface](assets/fake-news-detector.png)
+![Fake News Detector Streamlit Interface](fake-news-detector.png)
 
 The interface allows the user to paste a news article and click **Detect News**. The application then displays the predicted class and model confidence.
 
